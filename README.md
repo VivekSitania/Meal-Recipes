@@ -2,9 +2,9 @@
 
 Meal-Recipes (Made using HTML5, CSS3, API, Local Storage and JavaScript)
 
-You can see the website live at: 
+You can see the website live at: https://viveksitania.github.io/Meal-Recipes/
 
-Project demo video Link: 
+Project demo video Link: https://www.youtube.com/watch?v=41sXjIChbjo
 
 TheMeal API Link: https://www.themealdb.com/api.php
 
